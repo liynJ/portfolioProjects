@@ -12,6 +12,7 @@ The dashboards shows some of the queries that I've chosen to include in it:
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%233780F1.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 #### Data source: https://ourworldindata.org/covid-deaths
+#### Tableau Dashboard: https://public.tableau.com/app/profile/leen.jank/viz/coviddashboard_16245341072390/Dashboard1
  
 </p>
 
@@ -19,12 +20,32 @@ The dashboards shows some of the queries that I've chosen to include in it:
 ## 2. Movie correlation
 This project shows analysis and correlations of a movies dataset.
 #### data source: https://www.kaggle.com/danielgrijalvas/movies
-#### tools: 
+#### Tools: 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-##### (all datasets used are licensed for commercial and educational use)
 
 ## 3. Sales Insight
+This project takes on analyzing sales dataset of an electronics company.
+the Power BI responsive dashboard contains important figures and numbers that show: 
+1. total revenue
+2. total sales quantity 
+3. total revenue by market
+4. sales quantity by market
+5. top 5 customers
+6. top 5 products sold
+7. the revenue trend graph(date, revenue). 
+(The dashboard is responsive and the numbers can be filtered according to year/month)
+(the pbix file is available on my github repo that is provided in the link)
+#### Tools: 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-FCC624?style=for-the-badge&logo=Power-BI&logoColor=black)
+
+
+
+
+
+##### (all datasets used are licensed for commercial and educational use)
+
