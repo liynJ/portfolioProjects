@@ -17,7 +17,7 @@ The dashboards shows some of the queries that I've chosen to include in it:
 </p>
 
 
-## 2. Pandaas Sales analysis 
+## 2. Pandas Sales analysis 
 This project shows analysis of an electronics company. the data was first cleaned and then analyzed using Pandas and matplotlib.
 #### Tools: 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
